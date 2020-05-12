@@ -1,0 +1,37 @@
+body {
+    background-image: url('https://image.freepik.com/fotos-gratis/parede-verde-com-fundo-branco-pincel_1409-932.jpg');
+    background-size: auto 100vh;
+    font-family: Courier New;
+    height:100vh;
+  }
+  
+  .menu {
+    background-color: yellow;
+    
+  }
+  a {
+    color: #d21404;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .menu ul {
+    display: flex;
+    justify-content: space-around
+   
+  }
+  .menu li {
+    list-style: none;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: blue;
+    text-align: center
+  }
+  
+  .site-subtitle {
+    font-style: italic
+  }
+  
